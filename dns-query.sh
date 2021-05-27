@@ -51,7 +51,7 @@ full_list["google\t"]=8.8.8.8
         #["opennic"]=198.206.14.241
         )
 echo "Domain: ${domain}"
-echo "DNS Server:               Response 1              Response 2             Response 3               Reponse 4"
+echo "DNS Server:               Response 1              Response 2             Response 3               Response 4"
 echo "-----------------------------------------------------------------------------------------------------------"
 for key in ${!full_list[@]}; do
 #       echo ${key}
